@@ -12,7 +12,7 @@
     "dateformat": "^3.0.3",
     "discord.js": "^11.3.2",
     "express": "^4.16.3",
-    "ffmpeg": "0.0.4",
+    "ffmpeg": "3.3.2",
     "ffmpeg-binaries": "^3.2.2-3",
     "fs": "0.0.2",
     "get-youtube-id": "^1.0.0",
